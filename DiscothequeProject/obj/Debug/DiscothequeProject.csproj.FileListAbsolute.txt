@@ -1,0 +1,10 @@
+C:\Users\nordr\source\repos\DiscothequeProject\DiscothequeProject\bin\Debug\DiscothequeProject.exe.config
+C:\Users\nordr\source\repos\DiscothequeProject\DiscothequeProject\bin\Debug\DiscothequeProject.exe
+C:\Users\nordr\source\repos\DiscothequeProject\DiscothequeProject\bin\Debug\DiscothequeProject.pdb
+C:\Users\nordr\source\repos\DiscothequeProject\DiscothequeProject\obj\Debug\DiscothequeProject.csproj.AssemblyReference.cache
+C:\Users\nordr\source\repos\DiscothequeProject\DiscothequeProject\obj\Debug\DiscothequeProject.Form1.resources
+C:\Users\nordr\source\repos\DiscothequeProject\DiscothequeProject\obj\Debug\DiscothequeProject.Properties.Resources.resources
+C:\Users\nordr\source\repos\DiscothequeProject\DiscothequeProject\obj\Debug\DiscothequeProject.csproj.GenerateResource.cache
+C:\Users\nordr\source\repos\DiscothequeProject\DiscothequeProject\obj\Debug\DiscothequeProject.csproj.CoreCompileInputs.cache
+C:\Users\nordr\source\repos\DiscothequeProject\DiscothequeProject\obj\Debug\DiscothequeProject.exe
+C:\Users\nordr\source\repos\DiscothequeProject\DiscothequeProject\obj\Debug\DiscothequeProject.pdb
